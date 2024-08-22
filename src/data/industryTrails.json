@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Financial Services Cloud Free Trials",
+    "company": "Salesforce",
+    "description": "Explore our solutions for banking, wealth management, corporate and investment banking, and insurance.",
+    "duration": "30 Days",
+    "links": [
+      {
+        "text": "Compare",
+        "url": "https://developer.salesforce.com/free-trials/comparison/financial-services-cloud"
+      },
+      {
+        "text": "Free Trial",
+        "url": "https://www.salesforce.com/form/signup/financial-services-cloud-trial/"
+      },
+      {
+        "text": "Base Trial",
+        "url": "https://www.salesforce.com/form/industries/financial-services/financial-services-cloud-base-trial/"
+      }
+    ]
+  },
+  {
+    "title": "Health Cloud Free Trials",
+    "company": "Salesforce",
+    "description": "Access tools to help you acquire, service, engage, and innovate across the entire healthcare ecosystem.",
+    "duration": "30 Days",
+    "links": [
+      {
+        "text": "Compare",
+        "url": "https://developer.salesforce.com/free-trials/comparison/health-cloud"
+      },
+      {
+        "text": "Free Trial",
+        "url": "https://www.salesforce.com/form/signup/health-cloud-trial/"
+      },
+      {
+        "text": "Base Trial",
+        "url": "https://www.salesforce.com/form/industries/healthcare/health-cloud-base-trial/"
+      }
+    ]
+  },
+  {
+    "title": "Manufacturing Cloud Free Trials",
+    "company": "Salesforce",
+    "description": "Explore how to align sales and operations, increase transparency, and better serve your customers in the manufacturing industry.",
+    "duration": "30 Days",
+    "links": [
+      {
+        "text": "Compare",
+        "url": "https://developer.salesforce.com/free-trials/comparison/manufacturing-cloud"
+      },
+      {
+        "text": "Free Trial",
+        "url": "https://www.salesforce.com/form/signup/manufacturing-cloud-trial-v2/"
+      },
+      {
+        "text": "Base Trial",
+        "url": "https://www.salesforce.com/form/industries/manufacturing/manufacturing-cloud-base-trial/"
+      }
+    ]
+  },
+  {
+    "title": "Consumer Goods Cloud Free Trials",
+    "company": "Salesforce",
+    "description": "Discover how to streamline retail execution and improve operations in the consumer goods industry.",
+    "duration": "30 Days",
+    "links": [
+      {
+        "text": "Compare",
+        "url": "https://developer.salesforce.com/free-trials/comparison/consumer-goods-cloud"
+      },
+      {
+        "text": "Free Trial",
+        "url": "https://www.salesforce.com/form/industries/consumer-goods/consumer-goods-free-trial/"
+      },
+      {
+        "text": "Base Trial",
+        "url": "https://www.salesforce.com/form/industries/consumer-goods/consumer-goods-cloud-base-trial/"
+      }
+    ]
+  },
+  {
+    "title": "Salesforce Scheduler Free Trials",
+    "company": "Salesforce",
+    "description": "Discover how your organization can manage virtual and in-person appointments from anywhere.",
+    "duration": "30 Days",
+    "links": [
+      {
+        "text": "Compare",
+        "url": "https://developer.salesforce.com/free-trials/comparison/salesforce-scheduler"
+      },
+      {
+        "text": "Free Trial",
+        "url": "https://www.salesforce.com/form/signup/lightning-scheduler-trial/"
+      },
+      {
+        "text": "Base Trial",
+        "url": "https://www.salesforce.com/form/platform/scheduler-base-trial/"
+      }
+    ]
+  },
+  {
+    "title": "Loyalty Management Free Trials",
+    "company": "Salesforce",
+    "description": "Access tools to quickly build experiential loyalty programs that engage customers in meaningful ways.",
+    "duration": "30 Days",
+    "links": [
+      {
+        "text": "Compare",
+        "url": "https://developer.salesforce.com/free-trials/comparison/loyalty-management"
+      },
+      {
+        "text": "Free Trial",
+        "url": "https://www.salesforce.com/form/signup/loyalty-management-trial/"
+      },
+      {
+        "text": "Base Trial",
+        "url": "https://www.salesforce.com/form/industries/common-layer/loyalty-management-base-trial/"
+      }
+    ]
+  },
+  {
+    "title": "Net Zero Cloud Free Trials",
+    "company": "Salesforce",
+    "description": "Explore how to build sustainability-specific apps fast by integrating a complete sustainability management solution.",
+    "duration": "30 Days",
+    "links": [
+      {
+        "text": "Compare",
+        "url": "https://developer.salesforce.com/free-trials/comparison/net-zero-cloud"
+      },
+      {
+        "text": "Free Trial",
+        "url": "https://www.salesforce.com/form/sustainability/net-zero-cloud-free-trial/"
+      },
+      {
+        "text": "Base Trial",
+        "url": "https://www.salesforce.com/form/sustainability/net-zero-cloud-base-trial/"
+      }
+    ]
+  },
+  {
+    "title": "Public Sector Solutions Free Trials",
+    "company": "Salesforce",
+    "description": "Access the tools to modernize government service delivery and improve public sector efficiency.",
+    "duration": "30 Days",
+    "links": [
+      {
+        "text": "Compare",
+        "url": "https://developer.salesforce.com/free-trials/comparison/public-sector"
+      },
+      {
+        "text": "Free Trial",
+        "url": "https://www.salesforce.com/form/industries/government/public-sector-solutions-learning-trial/"
+      },
+      {
+        "text": "Base Trial",
+        "url": "https://www.salesforce.com/form/industries/government/public-sector-base-trial/"
+      }
+    ]
+  },
+  {
+    "title": "Nonprofit Cloud Free Trials",
+    "company": "Salesforce",
+    "description": "Learn how to engage constituents, manage fundraising, and deliver programs that drive impact for your nonprofit.",
+    "duration": "30 Days",
+    "links": [
+      {
+        "text": "Compare",
+        "url": "https://developer.salesforce.com/free-trials/comparison/nonprofit-cloud"
+      },
+      {
+        "text": "Free Trial",
+        "url": "https://www.salesforce.com/form/sfdo/signup/nonprofit/nonprofit-cloud-learning-trial/"
+      },
+      {
+        "text": "Base Trial",
+        "url": "https://www.salesforce.com/form/sfdo/signup/nonprofit/nonprofit-cloud-base-trial/"
+      }
+    ]
+  },
+  {
+    "title": "Automotive Cloud Free Trials",
+    "company": "Salesforce",
+    "description": "Discover how to drive customer-centric experiences and improve operations in the automotive industry.",
+    "duration": "30 Days",
+    "links": [
+      {
+        "text": "Compare",
+        "url": "https://developer.salesforce.com/free-trials/comparison/automotive-cloud"
+      },
+      {
+        "text": "Free Trial",
+        "url": "https://www.salesforce.com/form/signup/automotive-cloud-trial/"
+      },
+      {
+        "text": "Base Trial",
+        "url": "https://www.salesforce.com/form/signup/automotive-cloud-trial/"
+      }
+    ]
+  },
+  {
+    "title": "Education Cloud Free Trials",
+    "company": "Salesforce",
+    "description": "Discover how to power your institution’s digital transformation with tools designed for higher education.",
+    "duration": "30 Days",
+    "links": [
+      {
+        "text": "Compare",
+        "url": "https://developer.salesforce.com/free-trials/comparison/education-cloud"
+      },
+      {
+        "text": "Free Trial",
+        "url": "https://www.salesforce.com/form/sfdo/signup/education/education-cloud-learning-trial/"
+      },
+      {
+        "text": "Base Trial",
+        "url": "https://www.salesforce.com/form/sfdo/signup/education/education-cloud-base-trial/"
+      }
+    ]
+  },
+  {
+    "title": "Communications Cloud Free Trials",
+    "company": "Salesforce",
+    "description": "Get access to tools that help you engage customers, automate operations, and transform your business.",
+    "duration": "30 Days",
+    "links": [
+      {
+        "text": "Compare",
+        "url": "https://developer.salesforce.com/free-trials/comparison/communications-cloud"
+      },
+      {
+        "text": "Free Trial",
+        "url": "https://www.salesforce.com/form/signup/comms-cloud-learning-trial/"
+      },
+      {
+        "text": "Base Trial",
+        "url": "https://www.salesforce.com/form/industries/communications/communications-cloud-base-trial-v2/"
+      }
+    ]
+  },
+  {
+    "title": "Media Cloud Free Trials",
+    "company": "Salesforce",
+    "description": "Learn how to deliver compelling digital experiences across every channel and device.",
+    "duration": "30 Days",
+    "links": [
+      {
+        "text": "Compare",
+        "url": "https://developer.salesforce.com/free-trials/comparison/media-cloud"
+      },
+      {
+        "text": "Free Trial",
+        "url": "https://www.salesforce.com/form/industries/media/media-cloud-learning-trial/"
+      },
+      {
+        "text": "Base Trial",
+        "url": "https://www.salesforce.com/form/industries/media/media-cloud-base-trial/"
+      }
+    ]
+  },
+  {
+    "title": "Energy & Utilities Cloud Free Trials",
+    "company": "Salesforce",
+    "description": "Get the tools you need to drive digital transformation and deliver better customer experiences in energy and utilities.",
+    "duration": "30 Days",
+    "links": [
+      {
+        "text": "Compare",
+        "url": "https://developer.salesforce.com/free-trials/comparison/energy-utilities-cloud"
+      },
+      {
+        "text": "Free Trial",
+        "url": "https://www.salesforce.com/form/industries/energy/energy-utilities-cloud-learning-free-trial/"
+      },
+      {
+        "text": "Base Trial",
+        "url": "https://www.salesforce.com/form/signup/energy-and-utilities-cloud-trial/"
+      }
+    ]
+  },
+  {
+    "title": "Salesforce Feedback Management Free Trials",
+    "company": "Salesforce",
+    "description": "Explore tools to help you build customizable surveys, automate followups, and analyze feedback trends.",
+    "duration": "30 Days",
+    "links": [
+      {
+        "text": "Compare",
+        "url": "https://developer.salesforce.com/free-trials/comparison/feedback-management"
+      },
+      {
+        "text": "Free Trial",
+        "url": "https://www.salesforce.com/form/signup/feedback-management-trial/"
+      },
+      {
+        "text": "Base Trial",
+        "url": "https://www.salesforce.com/form/signup/feedback-management-base-trial/"
+      }
+    ]
+  }
+]
