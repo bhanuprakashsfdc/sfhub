@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Error = () => {
+const Resources = () => {
   return (
     <div className='container'>
-      <p> 404 Error Page not found !!! </p>
+      <p> Resources</p>
     </div>
   )
 }
 
-export default Error
+export default Resources

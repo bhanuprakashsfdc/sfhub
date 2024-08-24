@@ -25,8 +25,12 @@ const Header = () => {
                             <li><a class="dropdown-item" href="/sflearningpaths.html">Salesforce Learning Paths</a></li>
                         </ul>
                     </li>
-                    <li class="nav-item px-2"><a class="nav-link" href="about-us.html">About Us</a></li>
+                    <li class="nav-item px-2"><a class="nav-link" href="/tools.html">Tools</a></li>
+                    <li class="nav-item px-2"><a class="nav-link" href="/extensions.html">Extensions</a></li>
+                    <li class="nav-item px-2"><a class="nav-link" href="/links.html">Links</a></li>
+                    <li class="nav-item px-2"><a class="nav-link" href="/resources.html">Resources</a></li>
                     <li class="nav-item px-2"><a class="nav-link" href="contact.html">Contact</a></li>
+                    <li class="nav-item px-2"><a class="nav-link" href="#">FeedBack</a></li>
                 </ul>
             </div>
         </div>

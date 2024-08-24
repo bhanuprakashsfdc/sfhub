@@ -1,0 +1,814 @@
+[
+    {
+      "title": "MuleSoft Anypoint Platform",
+      "logo": "https://www.mulesoft.com/sites/default/files/image/2022-06/mulesoft-new-logo.png",
+      "company": "MuleSoft",
+      "description": "Integration platform for connecting Salesforce with other systems.",
+      "duration": "Subscription-based",
+      "cmplink" : "https://www.mulesoft.com/",
+      "link": "https://anypoint.mulesoft.com/login/signup?apintent=generic",
+      "learning": "https://developer.mulesoft.com/"
+    },
+    {
+      "title": "Tableau",
+      "logo": "https://www.tableau.com/sites/default/files/pages/tableau-logomark.png",
+      "company": "Tableau",
+      "description": "Advanced data visualization and analytics tool that integrates with Salesforce.",
+      "duration": "Subscription-based",
+      "cmplink": "https://www.tableau.com",
+      "link": "https://www.tableau.com/products/trial",
+      "learning": "https://www.tableau.com/learn"
+    },
+    {
+      "title": "Conga Composer",
+      "logo": "https://conga.com/sites/all/themes/conga/images/conga-logo.png",
+      "company": "Conga",
+      "description": "Tool for generating documents like proposals, quotes, and contracts from Salesforce data.",
+      "duration": "Subscription-based",
+      "cmplink": "https://conga.com/products/docgen",
+      "link": "https://anypoint.mulesoft.com/login/signup?apintent=generic",
+      "learning": "https://developer.mulesoft.com/"
+    },
+    {
+      "title": "DocuSign",
+      "logo": "https://www.docusign.com/sites/default/files/image/2021-09/docusign-new-logo.png",
+      "company": "DocuSign",
+      "description": "E-signature tool that integrates with Salesforce for contract management.",
+      "duration": "Subscription-based",
+      "cmplink": "https://www.docusign.com",
+      "link": "https://anypoint.mulesoft.com/login/signup?apintent=generic",
+      "learning": "https://developer.mulesoft.com/"
+    },
+    {
+      "title": "ZoomInfo",
+      "logo": "https://www.zoominfo.com/hubfs/assets/Zoominfo-logo-black-orange.png",
+      "company": "ZoomInfo",
+      "description": "Platform for enriching Salesforce data with business contact information.",
+      "duration": "Subscription-based",
+      "cmplink": "https://www.zoominfo.com",
+      "link": "https://anypoint.mulesoft.com/login/signup?apintent=generic",
+      "learning": "https://developer.mulesoft.com/"
+    },
+    {
+      "title": "LinkedIn Sales Navigator",
+      "logo": "https://business.linkedin.com/content/dam/me/business/en-us/sales-solutions/logo/logo-sales-nav.svg",
+      "company": "LinkedIn",
+      "description": "Tool for social selling that integrates with Salesforce.",
+      "duration": "Subscription-based",
+      "cmplink": "https://business.linkedin.com/sales-solutions/sales-navigator",
+      "link": "https://anypoint.mulesoft.com/login/signup?apintent=generic",
+      "learning": "https://developer.mulesoft.com/"
+    },
+    {
+      "title": "FormAssembly",
+      "logo": "https://www.formassembly.com/wp-content/themes/formassembly/images/logo.svg",
+      "company": "FormAssembly",
+      "description": "Advanced form builder that integrates with Salesforce for data collection.",
+      "duration": "Subscription-based",
+      "link": "https://www.formassembly.com"
+    },
+    {
+      "title": "Skuid",
+      "logo": "https://www.skuid.com/images/skuid-logo.svg",
+      "company": "Skuid",
+      "description": "No-code platform for building custom Salesforce UIs.",
+      "duration": "Subscription-based",
+      "link": "https://www.skuid.com"
+    },
+    {
+      "title": "Salesforce Maps (formerly MapAnything)",
+      "logo": "https://www.salesforce.com/content/dam/web/en_us/www/images/products/logos/logo-salesforce-maps.png",
+      "company": "Salesforce",
+      "description": "Tool for optimizing sales territories and planning with geolocation.",
+      "duration": "Subscription-based",
+      "link": "https://www.salesforce.com/products/maps/overview/"
+    },
+    {
+      "title": "Geopointe",
+      "logo": "https://www.geopointe.com/wp-content/uploads/2020/06/Geopointe-Logo-Cropped.png",
+      "company": "Geopointe",
+      "description": "Location-based intelligence tool that integrates with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.geopointe.com"
+    },
+    {
+      "title": "Jitterbit",
+      "logo": "https://www.jitterbit.com/wp-content/uploads/2022/05/Jitterbit_Logo.svg",
+      "company": "Jitterbit",
+      "description": "API integration platform that connects Salesforce to other systems.",
+      "duration": "Subscription-based",
+      "link": "https://www.jitterbit.com"
+    },
+    {
+      "title": "Informatica Cloud",
+      "logo": "https://www.informatica.com/content/dam/infa-global/us/en/social-share-logos/informatica-social-logo-400x400.png",
+      "company": "Informatica",
+      "description": "Data integration and management tool for Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.informatica.com/products/cloud-integration/cloud-data-integration.html"
+    },
+    {
+      "title": "RingCentral",
+      "logo": "https://www.ringcentral.com/content/dam/ringcentral/images/logos/ringcentral-logo-main.svg",
+      "company": "RingCentral",
+      "description": "Cloud-based communication platform that integrates with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.ringcentral.com"
+    },
+    {
+      "title": "Outreach",
+      "logo": "https://www.outreach.io/images/brand-assets/outreach-logo-primary.png",
+      "company": "Outreach",
+      "description": "Sales engagement platform that integrates with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.outreach.io"
+    },
+    {
+      "title": "LeanData",
+      "logo": "https://www.leandata.com/wp-content/themes/leanData2021/assets/img/leandata-logo.svg",
+      "company": "LeanData",
+      "description": "Lead management and routing solution that integrates with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.leandata.com"
+    },
+    {
+      "title": "Pardot (Marketing Automation)",
+      "logo": "https://www.salesforce.com/content/dam/web/en_us/www/images/products/logos/logo-pardot.png",
+      "company": "Salesforce",
+      "description": "B2B marketing automation solution from Salesforce that integrates with other systems.",
+      "duration": "Subscription-based",
+      "link": "https://www.salesforce.com/products/pardot/overview/"
+    },
+    {
+      "title": "DemandTools",
+      "logo": "https://www.validity.com/wp-content/themes/validity-2020/assets/images/validity-logo-color.svg",
+      "company": "Validity",
+      "description": "Data management tool for cleaning and maintaining Salesforce data.",
+      "duration": "Subscription-based",
+      "link": "https://www.validity.com/demandtools/"
+    },
+    {
+      "title": "Asana",
+      "logo": "https://asana.com/-/static/marketing/icons/icon-asana-logo-gradient-3-color-25px.svg",
+      "company": "Asana",
+      "description": "Project management tool that integrates with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://asana.com"
+    },
+    {
+      "title": "Slack",
+      "logo": "https://a.slack-edge.com/80588/marketing/img/icons/icon_slack_hash_colored.png",
+      "company": "Slack",
+      "description": "Collaboration platform that integrates with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://slack.com"
+    },
+    {
+      "title": "Zapier",
+      "logo": "https://cdn.zapier.com/storage/photos/3e8b0ef299aa4766a5b59dcd3a19b53b.png",
+      "company": "Zapier",
+      "description": "Automation tool that connects Salesforce with hundreds of other apps.",
+      "duration": "Subscription-based",
+      "link": "https://zapier.com"
+    },
+    {
+      "title": "Adobe Sign",
+      "logo": "https://acrobat.adobe.com/us/en/acrobat/images/adobe-sign-logo.png",
+      "company": "Adobe",
+      "description": "E-signature tool that integrates with Salesforce for contract management.",
+      "duration": "Subscription-based",
+      "link": "https://acrobat.adobe.com/us/en/sign.html"
+    },
+    {
+      "title": "Quip",
+      "logo": "https://quip.com/icons/icon-96x96.png",
+      "company": "Quip",
+      "description": "Collaborative document editing tool that integrates with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://quip.com"
+    },
+    {
+      "title": "NewVoiceMedia",
+      "logo": "https://www.newvoicemedia.com/images/nvm-logo.svg",
+      "company": "NewVoiceMedia",
+      "description": "Cloud contact center software that integrates with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.newvoicemedia.com"
+    },
+    {
+      "title": "RingLead",
+      "logo": "https://www.ringlead.com/wp-content/themes/ringlead-2021/images/logo.svg",
+      "company": "RingLead",
+      "description": "Data management tool for Salesforce, focusing on deduplication and enrichment.",
+      "duration": "Subscription-based",
+      "link": "https://www.ringlead.com"
+    },
+    {
+      "title": "ClickTools",
+      "logo": "https://www.clicktools.com/wp-content/themes/clicktools2018/img/clicktools-logo.svg",
+      "company": "ClickTools",
+      "description": "Survey tool that integrates with Salesforce for customer feedback collection.",
+      "duration": "Subscription-based",
+      "link": "https://www.clicktools.com"
+    },
+    {
+      "title": "CalendarAnything",
+      "logo": "https://www.calendaranything.com/wp-content/uploads/2020/07/calendaranything-logo-dark.png",
+      "company": "CalendarAnything",
+      "description": "Calendar management app that integrates with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.calendaranything.com"
+    },
+    {
+      "title": "TaskRay",
+      "logo": "https://www.taskray.com/wp-content/themes/taskray2018/images/taskray-logo.svg",
+      "company": "TaskRay",
+      "description": "Project and task management tool within Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.taskray.com"
+    },
+    {
+      "title": "Xactly Incent",
+      "logo": "https://www.xactlycorp.com/themes/custom/xactly/logo.svg",
+      "company": "Xactly",
+      "description": "Sales performance management tool for commission calculations integrated with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.xactlycorp.com"
+    },
+    {
+      "title": "Altify",
+      "logo": "https://www.altify.com/wp-content/themes/altify-child-theme/images/altify-logo.svg",
+      "company": "Altify",
+      "description": "Account planning and sales methodology tool integrated with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.altify.com"
+    },
+    {
+      "title": "OwnBackup",
+      "logo": "https://www.ownbackup.com/wp-content/themes/ownbackup2018/dist/images/OwnBackup-Logo-RGB.svg",
+      "company": "OwnBackup",
+      "description": "Backup and recovery solution for Salesforce data.",
+      "duration": "Subscription-based",
+      "link": "https://www.ownbackup.com"
+    },
+    {
+      "title": "Elements.cloud",
+      "logo": "https://elements.cloud/wp-content/uploads/2021/02/Elements-logo-dark-800x800.png",
+      "company": "Elements.cloud",
+      "description": "Process mapping tool that integrates with Salesforce for business process documentation.",
+      "duration": "Subscription-based",
+      "link": "https://elements.cloud"
+    },
+    {
+      "title": "Sumo Scheduler",
+      "logo": "https://www.sumoscheduler.com/wp-content/themes/sumo-scheduler/images/sumo-logo.svg",
+      "company": "Sumo Scheduler",
+      "description": "Appointment scheduling tool integrated with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.sumoscheduler.com"
+    },
+    {
+      "title": "Nintex Drawloop",
+      "logo": "https://www.nintex.com/wp-content/uploads/2021/06/Nintex-logo-white-background.png",
+      "company": "Nintex",
+      "description": "Document generation tool for Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.nintex.com"
+    },
+    {
+      "title": "Dataloader.io",
+      "logo": "https://dataloader.io/assets/img/loader-icon.svg",
+      "company": "MuleSoft",
+      "description": "Cloud-based data loader for Salesforce, powered by MuleSoft.",
+      "duration": "Subscription-based",
+      "link": "https://www.dataloader.io"
+    },
+    {
+      "title": "Cloudingo",
+      "logo": "https://cloudingo.com/wp-content/themes/CloudingoTheme2020/assets/img/logo.svg",
+      "company": "Cloudingo",
+      "description": "Data management tool for deduplication and data quality in Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://cloudingo.com"
+    },
+    {
+      "title": "Smartsheet",
+      "logo": "https://www.smartsheet.com/sites/default/files/image/2022-03/smartsheet_logo_600x315.png",
+      "company": "Smartsheet",
+      "description": "Work management and automation tool that integrates with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.smartsheet.com"
+    },
+    {
+      "title": "Veeva Systems",
+      "logo": "https://www.veeva.com/wp-content/uploads/2020/06/Veeva-Logo-Registered.svg",
+      "company": "Veeva",
+      "description": "CRM solution tailored for the life sciences industry, integrated with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.veeva.com"
+    },
+    {
+      "title": "Skedulo",
+      "logo": "https://www.skedulo.com/wp-content/themes/skedulo-2021/dist/images/skedulo-logo.svg",
+      "company": "Skedulo",
+      "description": "Workforce management and scheduling solution integrated with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.skedulo.com"
+    },
+    {
+      "title": "Chargent",
+      "logo": "https://www.appfrontier.com/images/appfrontier-logo.svg",
+      "company": "AppFrontier",
+      "description": "Payment processing and management tool integrated with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.chargent.com"
+    },
+    {
+      "title": "Workato",
+      "logo": "https://cdn.workato.com/assets/images/global/logo/logotype.svg",
+      "company": "Workato",
+      "description": "Integration and automation platform that connects Salesforce with other apps.",
+      "duration": "Subscription-based",
+      "link": "https://www.workato.com"
+    },
+    {
+      "title": "Vonage Business Communications",
+      "logo": "https://www.vonage.com/site-assets/uploads/2020/09/vonage_logo.svg",
+      "company": "Vonage",
+      "description": "Cloud communications platform with Salesforce integration.",
+      "duration": "Subscription-based",
+      "link": "https://www.vonage.com"
+    },
+    {
+      "title": "Domo",
+      "logo": "https://www.domo.com/assets/images/logos/domo.svg",
+      "company": "Domo",
+      "description": "Business intelligence platform that integrates with Salesforce for advanced analytics.",
+      "duration": "Subscription-based",
+      "link": "https://www.domo.com"
+    },
+    {
+      "title": "Highspot",
+      "logo": "https://www.highspot.com/wp-content/themes/highspot/img/logos/highspot-logo.svg",
+      "company": "Highspot",
+      "description": "Sales enablement platform integrated with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.highspot.com"
+    },
+    {
+      "title": "Cirrus Insight",
+      "logo": "https://www.cirrusinsight.com/images/CI-logo-dark.svg",
+      "company": "Cirrus Insight",
+      "description": "Email and calendar integration tool for Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.cirrusinsight.com"
+    },
+    {
+      "title": "Salesloft",
+      "logo": "https://www.salesloft.com/wp-content/uploads/2021/03/salesloft-logo-dark-blue.svg",
+      "company": "Salesloft",
+      "description": "Sales engagement platform with deep Salesforce integration.",
+      "duration": "Subscription-based",
+      "link": "https://www.salesloft.com"
+    },
+    {
+      "title": "Vidyard",
+      "logo": "https://www.vidyard.com/wp-content/uploads/2018/05/vidyard-ogimage-1200x630.png",
+      "company": "Vidyard",
+      "description": "Video creation and hosting platform integrated with Salesforce for video-based selling.",
+      "duration": "Subscription-based",
+      "link": "https://www.vidyard.com"
+    },
+    {
+      "title": "CallTrackingMetrics",
+      "logo": "https://www.calltrackingmetrics.com/wp-content/uploads/2017/06/ctm_logo_1x.png",
+      "company": "CallTrackingMetrics",
+      "description": "Call tracking and contact center solution with Salesforce integration.",
+      "duration": "Subscription-based",
+      "link": "https://www.calltrackingmetrics.com"
+    },
+    {
+      "title": "Aircall",
+      "logo": "https://aircall.io/wp-content/uploads/2020/08/aircall-logo-dark.png",
+      "company": "Aircall",
+      "description": "Cloud-based phone system that integrates with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://aircall.io"
+    },
+    {
+      "title": "Spanning Backup",
+      "logo": "https://spanning.com/wp-content/themes/spanningv4/images/spanning-logo.png",
+      "company": "Spanning",
+      "description": "Backup solution for Salesforce data and metadata.",
+      "duration": "Subscription-based",
+      "link": "https://spanning.com"
+    },
+    {
+      "title": "WalkMe",
+      "logo": "https://www.walkme.com/wp-content/themes/walkmev1/images/walkme-logo.svg",
+      "company": "WalkMe",
+      "description": "Digital adoption platform that integrates with Salesforce to improve user onboarding.",
+      "duration": "Subscription-based",
+      "link": "https://www.walkme.com"
+    },
+    {
+      "title": "Rollbar",
+      "logo": "https://rollbar.com/assets/logo-rollbar.svg",
+      "company": "Rollbar",
+      "description": "Real-time error monitoring for Salesforce developers.",
+      "duration": "Subscription-based",
+      "link": "https://rollbar.com"
+    },
+    {
+      "title": "Chargify",
+      "logo": "https://www.chargify.com/wp-content/themes/chargify/dist/assets/images/logo.svg",
+      "company": "Chargify",
+      "description": "Recurring billing and subscription management tool with Salesforce integration.",
+      "duration": "Subscription-based",
+      "link": "https://www.chargify.com"
+    },
+    {
+      "title": "Tquila Automation",
+      "logo": "https://www.tquila.com/wp-content/themes/tquila2020/assets/images/logo.svg",
+      "company": "Tquila",
+      "description": "Robotic Process Automation (RPA) integrated with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.tquila.com"
+    },
+    {
+      "title": "GetFeedback",
+      "logo": "https://www.getfeedback.com/images/brand/getfeedback-logo-horizontal.svg",
+      "company": "GetFeedback",
+      "description": "Customer feedback tool that integrates with Salesforce for surveys and NPS.",
+      "duration": "Subscription-based",
+      "link": "https://www.getfeedback.com"
+    },
+    {
+      "title": "Drawloop",
+      "logo": "https://www.nintex.com/wp-content/themes/nintex2021/assets/images/nintex-logo.png",
+      "company": "Nintex",
+      "description": "Document automation solution for Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.nintex.com/products/drawloop-docgen/"
+    },
+    {
+      "title": "Conga Sign",
+      "logo": "https://conga.com/sites/default/files/logo-conga-sign_0.png",
+      "company": "Conga",
+      "description": "E-signature solution integrated with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://conga.com/products/e-signature"
+    },
+    {
+      "title": "Provar",
+      "logo": "https://www.provartesting.com/wp-content/uploads/2020/08/Provar-Logo.png",
+      "company": "Provar",
+      "description": "Test automation tool for Salesforce applications.",
+      "duration": "Subscription-based",
+      "link": "https://www.provartesting.com"
+    },
+    {
+      "title": "Remedyforce",
+      "logo": "https://www.bmc.com/content/dam/bmc/it-solutions/remedyforce/logo-remedyforce.png",
+      "company": "BMC Software",
+      "description": "IT service management tool built on Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.bmc.com/it-solutions/remedyforce.html"
+    },
+    {
+      "title": "RollWorks",
+      "logo": "https://www.rollworks.com/wp-content/themes/rollworks-2021/assets/images/rollworks-logo.svg",
+      "company": "RollWorks",
+      "description": "Account-based marketing platform that integrates with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.rollworks.com"
+    },
+    {
+      "title": "Outreach.io",
+      "logo": "https://www.outreach.io/images/brand-assets/outreach-logo-primary.png",
+      "company": "Outreach.io",
+      "description": "Sales engagement and automation tool integrated with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.outreach.io"
+    },
+    {
+      "title": "LeanKit",
+      "logo": "https://www.planview.com/wp-content/themes/planview2019/images/planview-logo.svg",
+      "company": "Planview",
+      "description": "Kanban-based project management tool with Salesforce integration.",
+      "duration": "Subscription-based",
+      "link": "https://www.planview.com/products-solutions/products/leankit/"
+    },
+    {
+      "title": "Validity CRM",
+      "logo": "https://www.validity.com/wp-content/themes/validity-2020/assets/images/validity-logo-color.svg",
+      "company": "Validity",
+      "description": "Tools for CRM data quality, including DemandTools and BriteVerify.",
+      "duration": "Subscription-based",
+      "link": "https://www.validity.com"
+    },
+    {
+      "title": "InsideView",
+      "logo": "https://www.insideview.com/wp-content/uploads/2020/03/insideview-logo.png",
+      "company": "InsideView",
+      "description": "Market intelligence and data enrichment tool that integrates with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.insideview.com"
+    },
+    {
+      "title": "Glance Networks",
+      "logo": "https://www.glance.net/wp-content/themes/glance-network/images/logo.png",
+      "company": "Glance Networks",
+      "description": "Visual engagement solution that integrates with Salesforce for screen sharing and video chat.",
+      "duration": "Subscription-based",
+      "link": "https://www.glance.net"
+    },
+    {
+      "title": "Talkdesk",
+      "logo": "https://www.talkdesk.com/wp-content/themes/talkdesk2019/images/talkdesk-logo.svg",
+      "company": "Talkdesk",
+      "description": "Cloud-based contact center solution with Salesforce integration.",
+      "duration": "Subscription-based",
+      "link": "https://www.talkdesk.com"
+    },
+    {
+      "title": "Box",
+      "logo": "https://www.box.com/content/dam/boxdotcom/box-for-industry/Box%20for%20Education/Box_EDU_Logo.svg",
+      "company": "Box",
+      "description": "Cloud content management and file sharing service integrated with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.box.com"
+    },
+    {
+      "title": "RingDNA",
+      "logo": "https://www.ringdna.com/wp-content/themes/ringdna/assets/images/ringdna-logo-dark.svg",
+      "company": "RingDNA",
+      "description": "Sales engagement and intelligence platform integrated with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.ringdna.com"
+    },
+    {
+      "title": "Propertybase",
+      "logo": "https://www.propertybase.com/wp-content/themes/propertybase-wp-2018/assets/img/logos/Propertybase-Logo.svg",
+      "company": "Propertybase",
+      "description": "Real estate CRM and marketing software built on Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.propertybase.com"
+    },
+    {
+      "title": "S-Docs",
+      "logo": "https://www.sdocs.com/wp-content/themes/sdocs-v3/images/logo-sdocs-2021.png",
+      "company": "S-Docs",
+      "description": "Document generation and e-signature tool for Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.sdocs.com"
+    },
+    {
+      "title": "DocSend",
+      "logo": "https://www.docsend.com/wp-content/themes/docsend2021/dist/assets/images/logo-docsend.png",
+      "company": "DocSend",
+      "description": "Document tracking and management tool integrated with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.docsend.com"
+    },
+    {
+      "title": "Adobe Acrobat Reader DC",
+      "logo": "https://acrobat.adobe.com/content/dam/dx-drm/en/acrobat/8x8-social-icon.png",
+      "company": "Adobe",
+      "description": "Tool for viewing and editing PDFs, often used with Salesforce documents.",
+      "duration": "Free",
+      "link": "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html"
+    },
+    {
+      "title": "HireVue",
+      "logo": "https://www.hirevue.com/hubfs/logo.svg",
+      "company": "HireVue",
+      "description": "Video interviewing platform that integrates with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.hirevue.com"
+    },
+    {
+      "title": "Smartsheet",
+      "logo": "https://www.smartsheet.com/sites/default/files/image/2022-03/smartsheet_logo_600x315.png",
+      "company": "Smartsheet",
+      "description": "Work execution platform integrated with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.smartsheet.com"
+    },
+    {
+      "title": "Calendly",
+      "logo": "https://calendly.com/images/logos/logo-square-blue.svg",
+      "company": "Calendly",
+      "description": "Scheduling tool that integrates with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://calendly.com"
+    },
+    {
+      "title": "InsideSales.com",
+      "logo": "https://www.insidesales.com/wp-content/themes/insidesales/images/logo.svg",
+      "company": "InsideSales",
+      "description": "AI-driven sales acceleration platform that integrates with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.insidesales.com"
+    },
+    {
+      "title": "Leanplum",
+      "logo": "https://www.leanplum.com/wp-content/uploads/2021/04/Leanplum-logo.svg",
+      "company": "Leanplum",
+      "description": "Mobile marketing platform with Salesforce integration.",
+      "duration": "Subscription-based",
+      "link": "https://www.leanplum.com"
+    },
+    {
+      "title": "Mixpanel",
+      "logo": "https://mixpanel.com/wp-content/uploads/2021/01/Mixpanel-Logo-Blue.svg",
+      "company": "Mixpanel",
+      "description": "Advanced analytics tool for tracking user interactions with your application, integrated with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://mixpanel.com"
+    },
+    {
+      "title": "Talkwalker",
+      "logo": "https://www.talkwalker.com/sites/default/files/talkwalker-logo.svg",
+      "company": "Talkwalker",
+      "description": "Social listening and analytics platform integrated with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.talkwalker.com"
+    },
+    {
+      "title": "LeanData",
+      "logo": "https://www.leandata.com/wp-content/themes/leanData2021/assets/img/leandata-logo.svg",
+      "company": "LeanData",
+      "description": "Lead management and routing tool for Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.leandata.com"
+    },
+    {
+      "title": "Coveo",
+      "logo": "https://www.coveo.com/assets/logos/coveo-white-on-blue.svg",
+      "company": "Coveo",
+      "description": "AI-powered search and recommendation engine for Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.coveo.com"
+    },
+    {
+      "title": "Pardot",
+      "logo": "https://www.salesforce.com/content/dam/web/en_us/www/images/products/logos/logo-pardot.png",
+      "company": "Salesforce",
+      "description": "B2B marketing automation platform integrated with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.salesforce.com/products/pardot/overview/"
+    },
+    {
+      "title": "Drift",
+      "logo": "https://www.drift.com/wp-content/themes/drift/assets/images/drift-logo.svg",
+      "company": "Drift",
+      "description": "Conversational marketing and sales tool integrated with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.drift.com"
+    },
+    {
+      "title": "Pendo",
+      "logo": "https://www.pendo.io/wp-content/uploads/2020/11/Pendo-logo-dark.svg",
+      "company": "Pendo",
+      "description": "Product analytics and user guidance platform integrated with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.pendo.io"
+    },
+    {
+      "title": "SugarCRM",
+      "logo": "https://www.sugarcrm.com/wp-content/themes/sugarcrm2021/assets/images/logo-sugarcrm.svg",
+      "company": "SugarCRM",
+      "description": "Customer relationship management platform that can integrate with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.sugarcrm.com"
+    },
+    {
+      "title": "Intercom",
+      "logo": "https://www.intercom.com/assets/images/Intercom-product-white.svg",
+      "company": "Intercom",
+      "description": "Customer messaging platform integrated with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.intercom.com"
+    },
+    {
+      "title": "Gainsight",
+      "logo": "https://www.gainsight.com/wp-content/themes/gainsight2021/images/logo.svg",
+      "company": "Gainsight",
+      "description": "Customer success software integrated with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.gainsight.com"
+    },
+    {
+      "title": "Jira",
+      "logo": "https://www.atlassian.com/dam/jcr:6b567d3a-16b9-4b48-8573-93e1b7a9d9a3/Jira%20logo%20atlassian%20dark%20gray.svg",
+      "company": "Atlassian",
+      "description": "Project management and issue tracking tool that integrates with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.atlassian.com/software/jira"
+    },
+    {
+      "title": "Slack",
+      "logo": "https://a.slack-edge.com/80588/marketing/img/icons/icon_slack_hash_colored.png",
+      "company": "Slack",
+      "description": "Collaboration tool that integrates with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://slack.com"
+    },
+    {
+      "title": "SurveyMonkey",
+      "logo": "https://www.surveymonkey.com/brand/SVMK-mark-color.svg",
+      "company": "SurveyMonkey",
+      "description": "Survey and feedback tool that integrates with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.surveymonkey.com"
+    },
+    {
+      "title": "QuickBooks",
+      "logo": "https://quickbooks.intuit.com/content/dam/qbo/global/en_US/images/misc/QBO_INT_logo_NG_RGB.svg",
+      "company": "Intuit",
+      "description": "Accounting software that can integrate with Salesforce for financial management.",
+      "duration": "Subscription-based",
+      "link": "https://quickbooks.intuit.com"
+    },
+    {
+      "title": "G-Suite (Google Workspace)",
+      "logo": "https://workspace.google.com/images/icons/Google_Workspace_lockup.svg",
+      "company": "Google",
+      "description": "Collection of productivity tools (Gmail, Docs, Sheets) that integrate with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://workspace.google.com"
+    },
+    {
+      "title": "Mailchimp",
+      "logo": "https://mailchimp.com/resources/images/mailchimp-freddie-icon-320.png",
+      "company": "Mailchimp",
+      "description": "Email marketing platform that integrates with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://mailchimp.com"
+    },
+    {
+      "title": "Salesforce Inbox",
+      "logo": "https://www.salesforce.com/content/dam/web/en_us/www/images/products/logos/logo-inbox.png",
+      "company": "Salesforce",
+      "description": "Productivity tool that integrates email and calendar with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.salesforce.com/products/sales-cloud/email-integration/"
+    },
+    {
+      "title": "Evernote Business",
+      "logo": "https://evernote.com/c/assets/social/evernote-1200x630.png",
+      "company": "Evernote",
+      "description": "Note-taking and organization tool that integrates with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://evernote.com/business"
+    },
+    {
+      "title": "Qualtrics",
+      "logo": "https://www.qualtrics.com/app/res/digitalengagementplatformportal/prod/v1/file-uploads/definitive-guide-to-experience-management/files/qualtrics-logo-cropped.png",
+      "company": "Qualtrics",
+      "description": "Experience management platform that integrates with Salesforce for customer feedback.",
+      "duration": "Subscription-based",
+      "link": "https://www.qualtrics.com"
+    },
+    {
+      "title": "OneLogin",
+      "logo": "https://www.onelogin.com/assets/img/logos/onelogin-logo.svg",
+      "company": "OneLogin",
+      "description": "Identity management and single sign-on (SSO) solution integrated with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.onelogin.com"
+    },
+    {
+      "title": "Tact.ai",
+      "logo": "https://www.tact.ai/wp-content/themes/tact/images/logo.png",
+      "company": "Tact.ai",
+      "description": "Sales productivity platform that integrates with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.tact.ai"
+    },
+    {
+      "title": "LastPass",
+      "logo": "https://www.lastpass.com/static-assets/media/lp_logo.svg",
+      "company": "LastPass",
+      "description": "Password management tool that integrates with Salesforce for secure access.",
+      "duration": "Subscription-based",
+      "link": "https://www.lastpass.com"
+    },
+    {
+      "title": "Evergage",
+      "logo": "https://www.evergage.com/wp-content/uploads/2019/07/evergage-logo-horizontal.svg",
+      "company": "Evergage",
+      "description": "Real-time personalization platform that integrates with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.evergage.com"
+    },
+    {
+      "title": "Litmos",
+      "logo": "https://www.litmos.com/wp-content/themes/litmos/images/litmos_logo.svg",
+      "company": "Litmos",
+      "description": "Learning management system (LMS) that integrates with Salesforce.",
+      "duration": "Subscription-based",
+      "link": "https://www.litmos.com"
+    }
+]

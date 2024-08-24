@@ -1,5 +1,5 @@
 import React from 'react'
-
+import { WEBSITE_NAME_RIGHTS, WEBSITE_URL_RIGHTS } from '../constants/Constants'
 const Footer = () => {
   return (
     <footer className='topvv'>
@@ -8,9 +8,9 @@ const Footer = () => {
         <div className="row justify-content-md-between justify-content-evenly py-4">
           <div className="col-12 col-sm-8 col-md-6 col-lg-auto text-center text-md-start">
             <p className="fs--1 my-2 fw-bold">
-              All rights Reserved &copy;{' '}
-              <a style={{ color: 'honeydew' }} href="https://anuhyadigital.com/" target="_blank" rel="noopener noreferrer">
-                Anuhya Digital
+            {new Date().getFullYear()}. All rights Reserved &copy;{' '} 
+              <a style={{ color: 'honeydew' }} href={ WEBSITE_URL_RIGHTS } target="_blank" rel="noopener noreferrer">
+                { WEBSITE_NAME_RIGHTS }
               </a>
             </p>
           </div>
@@ -28,8 +28,8 @@ const Footer = () => {
                 <path d="M4 1c2.21 0 4 1.755 4 3.92C8 2.755 9.79 1 12 1s4 1.755 4 3.92c0 3.263-3.234 4.414-7.608 9.608a.513.513 0 0 1-.784 0C3.234 9.334 0 8.183 0 4.92 0 2.755 1.79 1 4 1z"></path>
               </svg>
               &nbsp;by&nbsp;
-              <a className="fw-bold text-900" href="https://bhanuprakashsfdc.com/" target="_blank" rel="noopener noreferrer">
-                Bhanu Prakash
+              <a className="fw-bold text-900" href={ WEBSITE_URL_RIGHTS } target="_blank" rel="noopener noreferrer">
+                { WEBSITE_NAME_RIGHTS }
               </a>
             </p>
           </div>
